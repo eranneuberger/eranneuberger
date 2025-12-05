@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README_DE.md">🇩🇪 Deutsch</a>
+  <a href="https://eranneuberger.github.io/eranneuberger/README_DE.html">🇩🇪 Deutsch</a>
 </p>
 
 # Product Leadership Training & Workshops
@@ -8,7 +8,7 @@
 
 <img src="images/Headshot cropped.png" align="right" width="200" style="margin-left: 20px; border-radius: 8px;">
 
-I'm a product executive with 12+ years of experience building and scaling product organizations across SaaS, AI, and platform companies. I've led product teams from 0 to 20+ people, launched category-defining platforms serving 80+ enterprise brands with 20M+ monthly invocations, and successfully transformed organizations from ad-hoc development to product-led growth.
+I'm a product executive with 15+ years of experience building and scaling product organizations across SaaS, AI, and platform companies. I've led product teams from 0 to 20+ people, launched category-defining platforms serving 80+ enterprise brands with 20M+ monthly invocations, and successfully transformed organizations from ad-hoc development to product-led growth.
 
 Now, I'm sharing these hard-won lessons through targeted training and workshops designed for product leaders, executives, and teams looking to elevate their product practice.
 
@@ -114,13 +114,9 @@ Interested in bringing one of these training programs to your organization? Have
 
 ---
 
-## Languages | Sprachen
+## Languages
 
-This site is available in:
-- **English** (current)
-- **[Deutsch](README_DE.md)** (German version)
-
-All training materials can be delivered in English, German, or Hebrew.
+All training materials can be delivered in *English*, or *German*.
 
 ---
 

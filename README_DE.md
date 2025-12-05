@@ -1,8 +1,14 @@
+<p align="right">
+  <a href="https://eranneuberger.github.io/eranneuberger/">🇬🇧 English</a>
+</p>
+
 # Produktführungs-Trainings & Workshops
 
 ## Über mich
 
-Ich bin ein Produktverantwortlicher mit über 12 Jahren Erfahrung im Aufbau und der Skalierung von Produktorganisationen in SaaS-, KI- und Plattform-Unternehmen. Ich habe Produktteams von 0 auf 20+ Personen aufgebaut, kategorie-definierende Plattformen gelauncht, die 80+ Enterprise-Marken mit über 20M monatlichen Aufrufen bedienen, und Organisationen erfolgreich von ad-hoc-Entwicklung zu produktgetriebenem Wachstum transformiert.
+<img src="images/Headshot cropped.png" align="right" width="200" style="margin-left: 20px; border-radius: 8px;">
+
+Ich bin ein Produktverantwortlicher mit über 15 Jahren Erfahrung im Aufbau und der Skalierung von Produktorganisationen in SaaS-, KI- und Plattform-Unternehmen. Ich habe Produktteams von 0 auf 20+ Personen aufgebaut, kategorie-definierende Plattformen gelauncht, die 80+ Enterprise-Marken mit über 20M monatlichen Aufrufen bedienen, und Organisationen erfolgreich von ad-hoc-Entwicklung zu produktgetriebenem Wachstum transformiert.
 
 Jetzt teile ich diese hart erkämpften Erkenntnisse durch zielgerichtete Trainings und Workshops, die für Produktverantwortliche, Executives und Teams konzipiert sind, die ihre Produktpraxis auf das nächste Level heben möchten.
 
@@ -108,13 +114,9 @@ Interessiert daran, eines dieser Trainingsprogramme in Ihre Organisation zu brin
 
 ---
 
-## Languages | Sprachen
+## Languages
 
-Diese Seite ist verfügbar in:
-- **[English](README.md)** (Englische Version)
-- **Deutsch** (aktuell)
-
-Alle Trainingsmaterialien können auf Englisch, Deutsch oder Hebräisch durchgeführt werden.
+All training materials can be delivered in *English*, or *German*.
 
 ---
 
