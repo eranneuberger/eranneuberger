@@ -31,11 +31,11 @@ Practical, experience-based workshops that go beyond theory. Each program is bui
 - **Custom programs** - Tailored to your organization's specific challenges
 
 ### Who This Is For
-- **CPOs & Heads of Product** looking to scale their organizations or drive transformation
+- **Organisations** wanting to learn or improve the use of Product development in their company
+- **Product Teams** wanting to level up their practices together
 - **Product Directors** building their leadership skills and team structures
 - **VPs Engineering** working to improve product-engineering collaboration
 - **Founders & Executives** seeking to establish product-led cultures
-- **Product Teams** wanting to level up their practices together
 
 ## Training Catalog
 
@@ -102,7 +102,7 @@ Drawing from experience at both fast-moving startups and global enterprises, the
 - BA, Communications (Cum Laude)
 
 **Languages:**
-English, German, Hebrew (fluent) | French (basic)
+English, German, Hebrew | French (basic)
 
 ## Get In Touch
 
