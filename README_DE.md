@@ -31,11 +31,11 @@ Praxisorientierte, erfahrungsbasierte Workshops, die über Theorie hinausgehen. 
 - **Custom-Programme** - Maßgeschneidert auf die spezifischen Herausforderungen Ihrer Organisation
 
 ### Für wen ist das?
-- **CPOs & Heads of Product**, die ihre Organisationen skalieren oder Transformationen vorantreiben möchten
-- **Product Directors**, die ihre Führungskompetenzen und Teamstrukturen aufbauen
-- **VPs Engineering**, die an der Verbesserung der Produkt-Engineering-Zusammenarbeit arbeiten
-- **Gründer & Executives**, die produktgetriebene Kulturen etablieren möchten
-- **Produktteams**, die gemeinsam ihre Praktiken verbessern wollen
+- **Unternehmen**, die den Einsatz von Produktentwicklung in ihrem Unternehmen erlernen oder verbessern möchten
+- **Produktteams**, die ihre Methoden gemeinsam auf ein höheres Niveau bringen wollen
+- **Product** Directors, die ihre Führungsfähigkeiten und Teamstrukturen weiterentwickeln
+- **Gründer und Führungskräfte** (Founders & Executives), die eine produktorientierte Unternehmenskultur etablieren möchten
+- **Engineering** , die die Zusammenarbeit zwischen Produkt und Engineering optimieren möchten
 
 ## Trainings-Katalog
 
