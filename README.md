@@ -1,14 +1,12 @@
-<div align="right">
-
-**[🇩🇪 Deutsch](README_DE.md)**
-
-</div>
+<p align="right">
+  <a href="README_DE.md">🇩🇪 Deutsch</a>
+</p>
 
 # Product Leadership Training & Workshops
 
 ## About
 
-<img src="images/profile.jpg" align="right" width="200" style="margin-left: 20px; border-radius: 8px;">
+<img src="images/Headshot cropped.png" align="right" width="200" style="margin-left: 20px; border-radius: 8px;">
 
 I'm a product executive with 12+ years of experience building and scaling product organizations across SaaS, AI, and platform companies. I've led product teams from 0 to 20+ people, launched category-defining platforms serving 80+ enterprise brands with 20M+ monthly invocations, and successfully transformed organizations from ad-hoc development to product-led growth.
 
